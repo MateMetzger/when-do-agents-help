@@ -1,0 +1,1145 @@
+{
+  "checked_date": "2026-09-14",
+  "sefaria": {
+    "license_granularity": "Edition/version, with text-specific declarations possible across Sefaria; uniform within the selected 126 files.",
+    "english_license_label": "CC-BY",
+    "publisher_license_link": "https://creativecommons.org/licenses/by/3.0/",
+    "hebrew_license_label": "Public Domain",
+    "files": [
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Arakhin_English.json",
+        "title": "Mishnah Arakhin",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "edd0cfcec16068336a95e5e7fd7280f9f1e60e870fda03ca44e4a57f61ce02c8"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Arakhin_Hebrew.json",
+        "title": "Mishnah Arakhin",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "40ba7e93e10bdb403a053137de54f210f055db7b8144c813fe9c095876f1c541"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Avodah_Zarah_English.json",
+        "title": "Mishnah Avodah Zarah",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "682f4554a706b8a743e3dabc38661d6d6fc1e230806fcadea6ecfbc2306ecc3c"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Avodah_Zarah_Hebrew.json",
+        "title": "Mishnah Avodah Zarah",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "1004ba68ee3611b743a911a0194442d6aee12b6653bba532aedfedacc93a3b0f"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Bava_Batra_English.json",
+        "title": "Mishnah Bava Batra",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "a30a49d002acdefa3adc14e71a1fac71ca0420fce28f798ac60f411af8162c7d"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Bava_Batra_Hebrew.json",
+        "title": "Mishnah Bava Batra",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "bbd8ba0a1990ce8f395110a128d476df993bcb3aba489d4961bca9e2e7533392"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Bava_Kamma_English.json",
+        "title": "Mishnah Bava Kamma",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "937b7889eefde8e3203594a91f9becf778f95083e2240e16ffe6048296359717"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Bava_Kamma_Hebrew.json",
+        "title": "Mishnah Bava Kamma",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "104554e9204fb2736d02378af17d8fe8f33ef3b42f50dbfe34e56d06beefb989"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Bava_Metzia_English.json",
+        "title": "Mishnah Bava Metzia",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "c8a5537217b042d32d6eae05c17be23c6d37719b9b05a930470f47e77a5d38f0"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Bava_Metzia_Hebrew.json",
+        "title": "Mishnah Bava Metzia",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "1c32220ce4b2b93cd552fe225c8f56fb1b780ac5b4371aae400d8077a6295e48"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Beitzah_English.json",
+        "title": "Mishnah Beitzah",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "ec3002ecc942711cd3ee4010bfe8a5fece806e6d292fdca353e95dfa08455ac0"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Beitzah_Hebrew.json",
+        "title": "Mishnah Beitzah",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "ed77328c34112dbd2853d57de7ff4037c47f650f56bdc7bd75d646aaff0703d6"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Bekhorot_English.json",
+        "title": "Mishnah Bekhorot",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "d9e9a1014d044653c71afa1b08bc2ed6601108bb0a2a5d9fb160ab7d37dc4311"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Bekhorot_Hebrew.json",
+        "title": "Mishnah Bekhorot",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "8674f0516aadb3b134f65f11ee119d465d78d171025adaf122cb2959b5e856fc"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Berakhot_English.json",
+        "title": "Mishnah Berakhot",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "e83a7879209b5d9f2bfc41d547bd95ec7a94be9b5fa02360255a1659812330a1"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Berakhot_Hebrew.json",
+        "title": "Mishnah Berakhot",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "b49380a57d801260ba0cb220e81d248c101c2b4a3d71efd721c3d1eb74309334"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Bikkurim_English.json",
+        "title": "Mishnah Bikkurim",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "cd7b007389a2ae087c2f5efa014669bdde29e9629fd8a56016d64066adbc5726"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Bikkurim_Hebrew.json",
+        "title": "Mishnah Bikkurim",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "9ed5b9abfab0a4033be94d4b232f2460e9db46e18e45a6446770ab8ee720da4c"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Chagigah_English.json",
+        "title": "Mishnah Chagigah",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "01bc38744fc71cffe0c825fa43a0ac863f1927ad2a52d2251c0fb2443d6608bb"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Chagigah_Hebrew.json",
+        "title": "Mishnah Chagigah",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "a2f761245fc8c73b630e65ea4d55ece701682035b1702d1e0644ed0af46f8cc8"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Challah_English.json",
+        "title": "Mishnah Challah",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "e4649e77a5585aaca9c22e1bca6667fae58db070813f956d2920f704a77cf889"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Challah_Hebrew.json",
+        "title": "Mishnah Challah",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "42cafab90f53d647be63c3f1faec26bdffda0493ad1fe655191a0801ff72a0e5"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Chullin_English.json",
+        "title": "Mishnah Chullin",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "ed8f03e66f77433e326ed1bf5631b16f7a3fd8c9a045a727703e7c29c1e1be94"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Chullin_Hebrew.json",
+        "title": "Mishnah Chullin",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "d6e1133c78e797cf1d3847c7ecccce95dcea63923b7230f9b52284556ae5f11c"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Demai_English.json",
+        "title": "Mishnah Demai",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "ab275973cfbd6db9316a39b348951d243fee9bad22df474ae30f0b612eee6c8c"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Demai_Hebrew.json",
+        "title": "Mishnah Demai",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "d814cb254f46d610def6fba152e2ec0040fadb6525bcd541eee9e248b445c379"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Eduyot_English.json",
+        "title": "Mishnah Eduyot",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "7e46818a1ea1bf1d3a19b0db6dbb1c44cfc9d98e54121ebdf4314c185c9f97b8"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Eduyot_Hebrew.json",
+        "title": "Mishnah Eduyot",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "a731c502f9021794ff37acdf3e47b938ac37c54c04d0c42303848b59b5ff1f47"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Eruvin_English.json",
+        "title": "Mishnah Eruvin",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "c160a6a913209f0f6e13bfb266edd764eb4d986744f51e08aa0f05ec8c07b6c0"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Eruvin_Hebrew.json",
+        "title": "Mishnah Eruvin",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "dc79fe9a3a089734e56fef6f35c85003c94e5d248ad7f0ff4b9bc26c6dadb751"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Gittin_English.json",
+        "title": "Mishnah Gittin",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "f8fd5576e980faf52217c7f27f2a7f0e82340c2c35954f5bbf0810cbe6a0ed07"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Gittin_Hebrew.json",
+        "title": "Mishnah Gittin",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "22f88c0940b8d0dc315c58bd9aa57274453ec3196d95c4cb37d287d4f24496be"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Horayot_English.json",
+        "title": "Mishnah Horayot",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "85d97aecb74287128778f98135a231777857db8e5f59e052757e28a413f5c226"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Horayot_Hebrew.json",
+        "title": "Mishnah Horayot",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "d9a2d083f538685640deaacaf0d5ffef3fc190d4483107df0048d24db945df0c"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Kelim_English.json",
+        "title": "Mishnah Kelim",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "3eb4defa91169ed9003cd37e5bc1ca1cddc575bbda9b806d9b855c03be5f63d2"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Kelim_Hebrew.json",
+        "title": "Mishnah Kelim",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "8fbb160be32fb537ece2b0307e502067a849de81a6c6939cb41f806e5cee2a5f"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Keritot_English.json",
+        "title": "Mishnah Keritot",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "bca9845bc18cf5df2ed5a4735ff56460974a1dbdd67d7f3c64254880893cad00"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Keritot_Hebrew.json",
+        "title": "Mishnah Keritot",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "ba400c965a431f0a85190fd598f49a354ee2d3e4b8b8de36d0db33749ebcc4b1"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Ketubot_English.json",
+        "title": "Mishnah Ketubot",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "6a6dcfde16e9949f98ce09202e04ec22c3efa7a660a9eaf540856eefd1e32790"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Ketubot_Hebrew.json",
+        "title": "Mishnah Ketubot",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "ea747c5c67930e7cafd3acdf6c6687203ca440b2f7740ae0170897eea07d1864"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Kiddushin_English.json",
+        "title": "Mishnah Kiddushin",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "938990e899ff024a75251d064f671387ece29f72bce4e65b787536264d735d7c"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Kiddushin_Hebrew.json",
+        "title": "Mishnah Kiddushin",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "e361021a1002dbb126724eeca38b0d55294819774fc3b335d8291a21b07984ff"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Kilayim_English.json",
+        "title": "Mishnah Kilayim",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "d3cef83994fe5e9e981d4243ee17b5b9080946e5280c2e885d86eb784614a19d"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Kilayim_Hebrew.json",
+        "title": "Mishnah Kilayim",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "620400451bf5c6fb0eeefaeb185c8be8a0050f54cd5a7355c0e07d2660c7163d"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Kinnim_English.json",
+        "title": "Mishnah Kinnim",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "688d85eef25185a91751e2c916886fc381870d633367e41384f4ce0573269db6"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Kinnim_Hebrew.json",
+        "title": "Mishnah Kinnim",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "b6726e0be700d107410ee6d1b8a1f57029ab7a3efef1d62bbb887f146c267574"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Maaser_Sheni_English.json",
+        "title": "Mishnah Maaser Sheni",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "5a8e7038ff15212ec5a390b934f53391ca1bcf5352ec8fb5079f0288be5ea410"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Maaser_Sheni_Hebrew.json",
+        "title": "Mishnah Maaser Sheni",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "c8529776986ae22ef64e44e2e386aebeccf9ad650c716b42d3ea5a9227c791dc"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Maasrot_English.json",
+        "title": "Mishnah Maasrot",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "5f0d05366fa46e04099bc9f486b5e0baebb7f6e4b55fd46bf4770486dfa1724f"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Maasrot_Hebrew.json",
+        "title": "Mishnah Maasrot",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "8ef6c9bf57db8e82dcf311714fffe07323ca0d7384e3575043405d687e13c093"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Makhshirin_English.json",
+        "title": "Mishnah Makhshirin",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "5e379e59149be9ec823f0b245d440ae085f01b658575618185e95e5c44bf09b4"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Makhshirin_Hebrew.json",
+        "title": "Mishnah Makhshirin",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "c59010700a38e0d06a503356831e5ccde20c211f72b3ab014b7ee0efae5b46a8"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Makkot_English.json",
+        "title": "Mishnah Makkot",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "29e9e28911f456140998e72f26c68c6ea992e9aa3e87cf4f13d6e788505a7c32"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Makkot_Hebrew.json",
+        "title": "Mishnah Makkot",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "bb118cc1b68d92a89d76ead5e423ac4bfda5ed426638893f3defb57f3f20a744"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Megillah_English.json",
+        "title": "Mishnah Megillah",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "bb814019789173552a509fe4e8c4dada4cf647496a119b0616e90df26e12d33c"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Megillah_Hebrew.json",
+        "title": "Mishnah Megillah",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "85c0a8cb30c11b1a1ffb4cebef79b2a23e0b47b4d7d62a6575501b77f08bbc30"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Meilah_English.json",
+        "title": "Mishnah Meilah",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "8e5103cab546425cce7471e0e9e8cae4c2935d2dc0c0faac655785984c856a12"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Meilah_Hebrew.json",
+        "title": "Mishnah Meilah",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "eabd34006d8b4e3390ac2de9baf3da0d8f26c024687f726a829a31037b319923"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Menachot_English.json",
+        "title": "Mishnah Menachot",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "35ab924302f020e6b5bc15cbfa92d9d1939aa55b2003fc3e98a787ae7023daed"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Menachot_Hebrew.json",
+        "title": "Mishnah Menachot",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "0e88bb8b261662964713319acb794f0fb81cf7cbfddddb4695827cc97a1d48d4"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Middot_English.json",
+        "title": "Mishnah Middot",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "00c1091bc6c0dbe0b991da36e7f123ac785bcbb4ef44d72e4b1237390cbb9f3e"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Middot_Hebrew.json",
+        "title": "Mishnah Middot",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "371aab6dde321a6a96280038b03ce861ad1ca66b296bba38c0659e54f4ee3d29"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Mikvaot_English.json",
+        "title": "Mishnah Mikvaot",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "3cd60316e390dee505a976c83a40d998f3a6f5bb53710d5595497df7dff78e26"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Mikvaot_Hebrew.json",
+        "title": "Mishnah Mikvaot",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "356c1cff525008423b3195769faf1f5dd984a2b0c8893b0566056be3df846984"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Moed_Katan_English.json",
+        "title": "Mishnah Moed Katan",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "321d9b12fb2ca70a5cbfde02fbfe102426e9ebe3f5cecbeab8cd9bee49e5588e"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Moed_Katan_Hebrew.json",
+        "title": "Mishnah Moed Katan",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "675112a9a3522ba56506f54a84b3795ccc7eb8d6452901dc1278ace1e1708742"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Nazir_English.json",
+        "title": "Mishnah Nazir",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "1115b6715cf256f4bb2847c0380f86c55ea35dafb70b87e82c38c1e1f860e71f"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Nazir_Hebrew.json",
+        "title": "Mishnah Nazir",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "48201f6295fbdb6d00fbef81a77930962cec98bb72a484f3747a0b29018dd9c0"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Nedarim_English.json",
+        "title": "Mishnah Nedarim",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "69bb1bea9da66b570b2b01b4512d8ed4055f716af340515c8a232a3acb33ff61"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Nedarim_Hebrew.json",
+        "title": "Mishnah Nedarim",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "fe57a721dd8d6a5441786e3a7f70f6173c7c3b6c110fd23646d51633db6ca311"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Negaim_English.json",
+        "title": "Mishnah Negaim",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "9aff64d45471916914a0745aab0974bd87b90b66c2fea27d3146c9d48de3cefc"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Negaim_Hebrew.json",
+        "title": "Mishnah Negaim",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "a0755a1d4a8d4e180dfbe2e62b06eaa1a3bb482dae868b3e7d5e9fbcaecbcfed"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Niddah_English.json",
+        "title": "Mishnah Niddah",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "4757cbb54ce517d323c67f8b349ef2aa090076b9993e29347417a86af5a89793"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Niddah_Hebrew.json",
+        "title": "Mishnah Niddah",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "beb76d9e1cdd11156ffb627614c26a6904c068109755199daa7199bc7ea91b0e"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Oholot_English.json",
+        "title": "Mishnah Oholot",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "248e6addc904a8aa43fcef7b552d682e5f740152aa6518eac0192741c16c04c6"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Oholot_Hebrew.json",
+        "title": "Mishnah Oholot",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "ab555a38351303e343db16b4ed6e8066ec882b91af7c77433c85a9034c20e4b5"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Oktzin_English.json",
+        "title": "Mishnah Oktzin",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "33dd1f9262292e69713fad4def0e01ee452d22a5cdc6acbd6ce84ff74c197489"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Oktzin_Hebrew.json",
+        "title": "Mishnah Oktzin",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "43a7b7715f3b4235e6f79c80b06d1f825ea39161d55119b441295645e4cde262"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Orlah_English.json",
+        "title": "Mishnah Orlah",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "c1f377866aa521fba4af43f1d377e923d4a34d534c1078837887513ed3d29148"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Orlah_Hebrew.json",
+        "title": "Mishnah Orlah",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "2a6d5ce3811767fe00354549864f8a3613fb125fd1d33f3acc35d74495ed1f64"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Parah_English.json",
+        "title": "Mishnah Parah",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "6fc1a9d60d1e5b0a26182ce1915f2c2f965ff19277f9b28a6b7f61f67b955747"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Parah_Hebrew.json",
+        "title": "Mishnah Parah",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "f2bdfb31a4d075655de17ab1f34fb211a1c31ac4f8c18442211425e9aa7d421f"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Peah_English.json",
+        "title": "Mishnah Peah",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "205b903a2b08394ccc6eb472da72ec194bcd27a6b4060a07e1d1d38ae7c15309"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Peah_Hebrew.json",
+        "title": "Mishnah Peah",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "1565d23abdbc7257fa5046c25d17264d36c0dc42bb59cc2bec4d35c0780b04cf"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Pesachim_English.json",
+        "title": "Mishnah Pesachim",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "26579bd1dd433d102b865f7b46742bea622faaff9c5e06d62cf39e49463e5304"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Pesachim_Hebrew.json",
+        "title": "Mishnah Pesachim",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "b9d108b61387b31870f0e15c26cbef3ae1805b3e2739e1ddb3ae84f21c35059c"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Rosh_Hashanah_English.json",
+        "title": "Mishnah Rosh Hashanah",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "6d0626349919a627400eeb70bf2fc4e2467d94971c45b5fbd77bed869034ff2a"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Rosh_Hashanah_Hebrew.json",
+        "title": "Mishnah Rosh Hashanah",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "c319cb4abab19e13bcbfcf92a62ebd984aca24ea7621eb68dac71c1b5e8857e6"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Sanhedrin_English.json",
+        "title": "Mishnah Sanhedrin",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "e8ba4f9d623c3890de4210addf83a254a7e9dd449b4cd00012efcdaf63c9c794"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Sanhedrin_Hebrew.json",
+        "title": "Mishnah Sanhedrin",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "7227db4a5dc7a026225fe7c3582046f4647ec54b0b03280e14d0eb4f82dd472b"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Shabbat_English.json",
+        "title": "Mishnah Shabbat",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "491da72c55b49653ca381b59fcfaf9d6a332060c4cff916199f79bca90a3af89"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Shabbat_Hebrew.json",
+        "title": "Mishnah Shabbat",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "76652d66f11233ffab3f6b9f023484fd53e3b588280b0734b339d6e767db8c63"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Shekalim_English.json",
+        "title": "Mishnah Shekalim",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "7c4009b5eb4825d6edf65afe9a109a5d353876c53cb451494e074b783c5165df"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Shekalim_Hebrew.json",
+        "title": "Mishnah Shekalim",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "cc19d6e3928eb743d44ca22fbbcad1af5e04f9f5bc3f83d3f7f68e80708d4706"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Sheviit_English.json",
+        "title": "Mishnah Sheviit",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "fbc03390217473c210193c651d31cea1d4aeb1dce88f52933a38fee4a7f33fd3"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Sheviit_Hebrew.json",
+        "title": "Mishnah Sheviit",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "0035a0548882b67eb3d30c4e691ea84f04bdc8be2418e110c30c69eff11dbb81"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Shevuot_English.json",
+        "title": "Mishnah Shevuot",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "59615aceb9997080aa917661489502a8609e1153e94ccca0d00872b44061cf9d"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Shevuot_Hebrew.json",
+        "title": "Mishnah Shevuot",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "5004b4253a8cd72f15fc1a89a908fa574414755f69d8e27ff1747841956e8ea2"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Sotah_English.json",
+        "title": "Mishnah Sotah",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "5e60812a4c0481834037252e9580b8a25dfe3c6023fbbec3c7a372f2edb6237f"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Sotah_Hebrew.json",
+        "title": "Mishnah Sotah",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "5d7c99a6bbe7d917d00dfdc0a9ad130a44cd9c6c1cf33695605c4a06a8f5d660"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Sukkah_English.json",
+        "title": "Mishnah Sukkah",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "4bd0c797ab488f4f87dde6f092ceabfb3979e0c21b96dfd5e8c88b165730076e"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Sukkah_Hebrew.json",
+        "title": "Mishnah Sukkah",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "60c54a14c54359c21040031540f219b95e875b67710eebe1c0f032f3dc5ab304"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Ta'anit_English.json",
+        "title": "Mishnah Ta'anit",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "e3596dbb5cdf1e576c8b5f3713c79e98371618c768435e3d116ad931f87c2943"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Ta'anit_Hebrew.json",
+        "title": "Mishnah Ta'anit",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "7adef9f0bb627478b31a3e6750aa92c7acb24d1f0753b4e2c331a460442360ea"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Tahorot_English.json",
+        "title": "Mishnah Tahorot",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "7a7b8c0c356ee99652657f8f116188bb84c713bfe23b8733b87455f88cbb16c5"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Tahorot_Hebrew.json",
+        "title": "Mishnah Tahorot",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "6748553ebc55b281bac0dfcfcbe6a71a2b8e6d8680526ecfbb73980d5ff05dd9"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Tamid_English.json",
+        "title": "Mishnah Tamid",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "d6afe445fe101c238020a011660082d9807337de28aaf78485a67f08f165d7dd"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Tamid_Hebrew.json",
+        "title": "Mishnah Tamid",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "021fd69607bbb0276a15b09a53705e93211c9ae95c202525d24674784da9e34b"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Temurah_English.json",
+        "title": "Mishnah Temurah",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "772f5e1c54cc1555cc047ef89ec51044dc9ce50e2609944f0e5c6eb21162cf38"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Temurah_Hebrew.json",
+        "title": "Mishnah Temurah",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "1c0956d67edf87e486bc167b06b8ba692bed3acb929d859b0f4f1fb589055e7d"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Terumot_English.json",
+        "title": "Mishnah Terumot",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "43376f1c0d82f9f879d198310e7d2a474de90a3792bedd2466a9f35060b6c5af"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Terumot_Hebrew.json",
+        "title": "Mishnah Terumot",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "f41c8c374d49db1b47038a970037b9687ddbb7b1e41591c28862967368e34138"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Tevul_Yom_English.json",
+        "title": "Mishnah Tevul Yom",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "ca6223fceaecbfffb59d9a6a002ee58162412d62ee3b8adc77cccb0a3237ba69"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Tevul_Yom_Hebrew.json",
+        "title": "Mishnah Tevul Yom",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "b95318a493c60620fa40511f76be212327c0f861373da9471c715f32698c4bb6"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Yadayim_English.json",
+        "title": "Mishnah Yadayim",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "e8b3ff980553fef6da0f221fa4566064d1aea414219f31a383970780669b7245"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Yadayim_Hebrew.json",
+        "title": "Mishnah Yadayim",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "959086131b8912beaa2c0c379d76d5981cb23cf87bbbcb3525d3f92b339ba347"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Yevamot_English.json",
+        "title": "Mishnah Yevamot",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "23de9ee49534358ab734a80f1d133d8d7257b0be9cbe2502bc80651dada26279"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Yevamot_Hebrew.json",
+        "title": "Mishnah Yevamot",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "70bece5630a6d6b1e1674f2c359b5d0d427f71f3271c2dec450257dd5083287f"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Yoma_English.json",
+        "title": "Mishnah Yoma",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "c471f88ace167e9946405cdcf29dd9befdddfa735cb8bd8318e5254c5084a91f"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Yoma_Hebrew.json",
+        "title": "Mishnah Yoma",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "7074d41b4acdaaba3e8550df8fea645935c315e0be6035ae332739e973a184ed"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Zavim_English.json",
+        "title": "Mishnah Zavim",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "d5c96456b3e9c825fee8d4aa33eae14879110f6cca1069ff6013953aa4154721"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Zavim_Hebrew.json",
+        "title": "Mishnah Zavim",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "2f8a679adbb4f8fd6e323cc26d4e687fe4ba7c5b48ac38636cacdf0d3ac4fd1a"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Zevachim_English.json",
+        "title": "Mishnah Zevachim",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "a2576dee6dc4e085f8135bc8fe269862c69c7b4866c5df1ad831ff3eb9509ded"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Mishnah_Zevachim_Hebrew.json",
+        "title": "Mishnah Zevachim",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "f72f733308f1e6afdc148f7501ba8476765123d3366a6fc4ec99bfb2e43c03c5"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Pirkei_Avot_English.json",
+        "title": "Pirkei Avot",
+        "language": "en",
+        "version": "Mishnah Yomit by Dr. Joshua Kulp",
+        "license_label": "CC-BY",
+        "version_source": "http://learn.conservativeyeshiva.org/mishnah/",
+        "sha256": "e10ef7afe08eab8816545182d673a630344b9f1afdd4f84d2821a64e041a78e8"
+      },
+      {
+        "file": "raw/sefaria/mishnah_full/Pirkei_Avot_Hebrew.json",
+        "title": "Pirkei Avot",
+        "language": "he",
+        "version": "Mishnah, ed. Romm, Vilna 1913",
+        "license_label": "Public Domain",
+        "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH001741739",
+        "sha256": "f1480e5a9c78153c616a85a9fb45ea7485f39036f05e39fd6e409c2b4eb51da1"
+      }
+    ]
+  }
+}

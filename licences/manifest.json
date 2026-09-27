@@ -1,0 +1,364 @@
+{
+  "created_utc": "2026-09-26T14:19:57+00:00",
+  "note": "Licence evidence for the corpora used in the study. Raw files are saved byte for byte; PDFs are print-to-PDF renderings of the pages. For 84000, the Terms of Use granting CC BY 4.0 for the translation memory is archived. raw/sefaria-license-audit-126-files.json is an audit of the licence field in all 126 Sefaria export files used.",
+  "documents": [
+    {
+      "id": "suttacentral-licensing",
+      "corpus": "Bilara (Pāli)",
+      "evidence_for": "SuttaCentral licensing page: CC0 for SuttaCentral material, public domain for root texts, and the request on generative AI",
+      "page_url": "https://suttacentral.net/licensing",
+      "raw_url": "https://suttacentral.net/localization/elements/licensing_en.json",
+      "raw": {
+        "file": "raw/suttacentral-licensing.json",
+        "sha256": "bdbb5226b19888b8a1ad00e06ca5dc11f8f3738b101acddfa0c54258a875c187",
+        "bytes": 4829,
+        "http_status": 200,
+        "content_type": "application/json",
+        "retrieved_utc": "2026-09-26T14:12:26+00:00"
+      },
+      "pdf": {
+        "file": "pdf/suttacentral-licensing.pdf",
+        "sha256": "a52a08decf2f7036148003e0168bd6c03011de8f26691f730e13d3fd3d3c2c76",
+        "bytes": 116711,
+        "printed_utc": "2026-09-26T14:12:29+00:00",
+        "method": "headless Chrome print-to-PDF"
+      },
+      "wayback": {
+        "https://suttacentral.net/licensing": {
+          "status": 200,
+          "snapshot": "https://web.archive.org/web/20260926141233/https://suttacentral.net/licensing",
+          "requested": "2026-09-26T14:12:51+00:00"
+        },
+        "https://suttacentral.net/localization/elements/licensing_en.json": {
+          "status": 200,
+          "snapshot": "https://web.archive.org/web/20260513072838/https://suttacentral.net/localization/elements/licensing_en.json",
+          "requested": "2026-09-26T14:13:16+00:00"
+        }
+      }
+    },
+    {
+      "id": "bilara-data-license",
+      "corpus": "Bilara (Pāli)",
+      "evidence_for": "Bilara data repository licence file (CC0 for translations)",
+      "page_url": "https://github.com/suttacentral/bilara-data/blob/published/LICENSE.md",
+      "raw_url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/LICENSE.md",
+      "raw": {
+        "file": "raw/bilara-data-license.md",
+        "sha256": "fb244eaafc121b9f5b14dbecb20ac407b3acf6eec8c5028fc1e3bd0afb1a6f3f",
+        "bytes": 322,
+        "http_status": 200,
+        "content_type": "text/plain; charset=utf-8",
+        "retrieved_utc": "2026-09-26T14:13:25+00:00"
+      },
+      "pdf": {
+        "file": "pdf/bilara-data-license.pdf",
+        "sha256": "b54d5eb303ff09c53f8e43158bf13d26b06e054964bd3a1aaa617e665e9b14be",
+        "bytes": 93372,
+        "printed_utc": "2026-09-26T14:13:29+00:00",
+        "method": "headless Chrome print-to-PDF"
+      },
+      "wayback": {
+        "https://github.com/suttacentral/bilara-data/blob/published/LICENSE.md": {
+          "status": 200,
+          "snapshot": "https://web.archive.org/web/20260926141333/https://github.com/suttacentral/bilara-data/blob/published/LICENSE.md",
+          "requested": "2026-09-26T14:13:53+00:00"
+        },
+        "https://raw.githubusercontent.com/suttacentral/bilara-data/published/LICENSE.md": {
+          "status": 200,
+          "snapshot": "https://web.archive.org/web/20260926141403/https://raw.githubusercontent.com/suttacentral/bilara-data/published/LICENSE.md",
+          "requested": "2026-09-26T14:14:11+00:00"
+        }
+      }
+    },
+    {
+      "id": "itihasa-dataset-card",
+      "corpus": "Itihāsa (Sanskrit)",
+      "evidence_for": "Authors' Hugging Face dataset card declaring Apache-2.0",
+      "page_url": "https://huggingface.co/datasets/rahular/itihasa",
+      "raw_url": "https://huggingface.co/datasets/rahular/itihasa/raw/main/README.md",
+      "raw": {
+        "file": "raw/itihasa-dataset-card.md",
+        "sha256": "14801cbbfdfa93faedf9e3a3ba50b5bf26e3d37b69e976420e4431625072dd74",
+        "bytes": 3030,
+        "http_status": 200,
+        "content_type": "text/plain; charset=utf-8",
+        "retrieved_utc": "2026-09-26T14:14:19+00:00"
+      },
+      "pdf": {
+        "file": "pdf/itihasa-dataset-card.pdf",
+        "sha256": "eaf49885c4790e5fa9c6b2a889258bfd66e9e9a4e487751a338fd46dc7ca29af",
+        "bytes": 642678,
+        "printed_utc": "2026-09-26T14:14:28+00:00",
+        "method": "headless Chrome print-to-PDF"
+      },
+      "wayback": {
+        "https://huggingface.co/datasets/rahular/itihasa": {
+          "status": 520,
+          "snapshot": null,
+          "error": "HTTP Error 520: UNKNOWN",
+          "requested": "2026-09-26T14:20:46+00:00"
+        },
+        "https://huggingface.co/datasets/rahular/itihasa/raw/main/README.md": {
+          "status": 200,
+          "snapshot": "https://web.archive.org/web/20260926141450/https://huggingface.co/datasets/rahular/itihasa/raw/main/README.md",
+          "requested": "2026-09-26T14:15:00+00:00"
+        }
+      }
+    },
+    {
+      "id": "sefaria-api-versions-taanit",
+      "corpus": "Sefaria (Hebrew)",
+      "evidence_for": "Sefaria's API listing of Mishnah Ta'anit versions with their licences: Kulp (en) CC-BY, Romm Vilna 1913 (he) Public Domain",
+      "page_url": "https://www.sefaria.org/api/texts/versions/Mishnah_Ta'anit",
+      "raw_url": "https://www.sefaria.org/api/texts/versions/Mishnah_Ta'anit",
+      "raw": {
+        "file": "raw/sefaria-api-versions-taanit.json",
+        "sha256": "396a89bbfbbc1a34e406580170d3eed4cc9e80357e8cda4641faa14bdcd83468",
+        "bytes": 11338,
+        "http_status": 200,
+        "content_type": "application/json; charset=utf-8",
+        "retrieved_utc": "2026-09-26T14:15:09+00:00"
+      },
+      "pdf": {
+        "file": "pdf/sefaria-api-versions-taanit.pdf",
+        "sha256": "73de09d385e3294f51f43d2e86aba4ffd5c23ef3ff39af9dffc54988f6ac486b",
+        "bytes": 44896,
+        "printed_utc": "2026-09-26T14:15:12+00:00",
+        "method": "headless Chrome print-to-PDF"
+      },
+      "wayback": {
+        "https://www.sefaria.org/api/texts/versions/Mishnah_Ta'anit": {
+          "status": 200,
+          "snapshot": "https://web.archive.org/web/20260926141513/https://www.sefaria.org/api/texts/versions/Mishnah_Ta%27anit",
+          "requested": "2026-09-26T14:15:40+00:00"
+        }
+      }
+    },
+    {
+      "id": "sefaria-export-kulp-english",
+      "corpus": "Sefaria (Hebrew)",
+      "evidence_for": "Sefaria export file for Kulp, Mishnah Yomit (Ta'anit): licence field \"CC-BY\"",
+      "page_url": null,
+      "raw_url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Moed/Mishnah%20Ta'anit/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "raw": {
+        "file": "raw/sefaria-export-kulp-english.json",
+        "sha256": "e3596dbb5cdf1e576c8b5f3713c79e98371618c768435e3d116ad931f87c2943",
+        "bytes": 19859,
+        "http_status": 200,
+        "content_type": "application/json",
+        "retrieved_utc": "2026-09-26T14:15:48+00:00"
+      },
+      "wayback": {
+        "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Moed/Mishnah%20Ta'anit/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json": {
+          "status": 404,
+          "snapshot": null,
+          "error": "HTTP Error 404: NOT FOUND",
+          "requested": "2026-09-26T14:21:43+00:00"
+        }
+      }
+    },
+    {
+      "id": "sefaria-export-romm-hebrew",
+      "corpus": "Sefaria (Hebrew)",
+      "evidence_for": "Sefaria export file for the Romm (Vilna 1913) Mishnah (Ta'anit): licence field \"Public Domain\"",
+      "page_url": null,
+      "raw_url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Moed/Mishnah%20Ta'anit/Hebrew/Mishnah%2C%20ed.%20Romm%2C%20Vilna%201913.json",
+      "raw": {
+        "file": "raw/sefaria-export-romm-hebrew.json",
+        "sha256": "7adef9f0bb627478b31a3e6750aa92c7acb24d1f0753b4e2c331a460442360ea",
+        "bytes": 18592,
+        "http_status": 200,
+        "content_type": "application/json",
+        "retrieved_utc": "2026-09-26T14:16:14+00:00"
+      },
+      "wayback": {
+        "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Moed/Mishnah%20Ta'anit/Hebrew/Mishnah%2C%20ed.%20Romm%2C%20Vilna%201913.json": {
+          "status": 200,
+          "snapshot": "https://web.archive.org/web/20260926141621/https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Moed/Mishnah%20Ta%27anit/Hebrew/Mishnah,%20ed.%20Romm,%20Vilna%201913.json",
+          "requested": "2026-09-26T14:16:28+00:00"
+        }
+      }
+    },
+    {
+      "id": "sefaria-licence-map",
+      "corpus": "Sefaria (Hebrew)",
+      "evidence_for": "Sefaria application code mapping the label CC-BY to CC BY 3.0",
+      "page_url": null,
+      "raw_url": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/master/static/js/sefaria/sefaria.js",
+      "raw": {
+        "file": "raw/sefaria-licence-map.js",
+        "sha256": "10f1edde4effaf68bdff16f75018a957e117a4616dda7521ab139c6b52689eb2",
+        "bytes": 174044,
+        "http_status": 200,
+        "content_type": "text/plain; charset=utf-8",
+        "retrieved_utc": "2026-09-26T14:16:37+00:00"
+      },
+      "wayback": {
+        "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/master/static/js/sefaria/sefaria.js": {
+          "status": 200,
+          "snapshot": "https://web.archive.org/web/20260926141640/https://raw.githubusercontent.com/Sefaria/Sefaria-Project/master/static/js/sefaria/sefaria.js",
+          "requested": "2026-09-26T14:16:49+00:00"
+        }
+      }
+    },
+    {
+      "id": "84000-terms-of-use",
+      "corpus": "84000 (Tibetan)",
+      "evidence_for": "84000 Terms of Use granting CC BY 4.0 for the translation memory",
+      "page_url": "https://github.com/84000/all-data/blob/master/Terms_of_Use.md",
+      "raw_url": "https://raw.githubusercontent.com/84000/all-data/master/Terms_of_Use.md",
+      "raw": {
+        "file": "raw/84000-terms-of-use.md",
+        "sha256": "971f074ef3defdadce85e53455c6389691cb5a0dbf2d9edb28833f5443610cab",
+        "bytes": 18358,
+        "http_status": 200,
+        "content_type": "text/plain; charset=utf-8",
+        "retrieved_utc": "2026-09-26T14:16:57+00:00"
+      },
+      "pdf": {
+        "file": "pdf/84000-terms-of-use.pdf",
+        "sha256": "1dc205e3b0a6813034c7583f3205132c4a5770c48b8bfc01ab9b00b7599f4ff5",
+        "bytes": 196794,
+        "printed_utc": "2026-09-26T14:17:03+00:00",
+        "method": "headless Chrome print-to-PDF"
+      },
+      "wayback": {
+        "https://github.com/84000/all-data/blob/master/Terms_of_Use.md": {
+          "status": 520,
+          "snapshot": null,
+          "error": "HTTP Error 520: UNKNOWN",
+          "requested": "2026-09-26T14:22:12+00:00"
+        },
+        "https://raw.githubusercontent.com/84000/all-data/master/Terms_of_Use.md": {
+          "status": 404,
+          "snapshot": null,
+          "error": "HTTP Error 404: NOT FOUND",
+          "requested": "2026-09-26T14:22:45+00:00"
+        },
+        "https://github.com/84000/all-data/blob/61f55bfdc5f7c9f4949613b6f4b048fa8595d364/Terms_of_Use.md": {
+          "status": 404,
+          "snapshot": null,
+          "error": "HTTP Error 404: NOT FOUND",
+          "requested": "2026-09-26T14:25:24+00:00"
+        }
+      },
+      "git_provenance": {
+        "repository": "https://github.com/84000/all-data",
+        "file": "Terms_of_Use.md",
+        "commit": "61f55bfdc5f7c9f4949613b6f4b048fa8595d364",
+        "commit_date_utc": "2024-03-21T15:41:30Z",
+        "commit_url": "https://github.com/84000/all-data/blob/61f55bfdc5f7c9f4949613b6f4b048fa8595d364/Terms_of_Use.md",
+        "raw_at_commit": "https://raw.githubusercontent.com/84000/all-data/61f55bfdc5f7c9f4949613b6f4b048fa8595d364/Terms_of_Use.md",
+        "note": "Only commit touching this file as of retrieval; the archived raw file is byte-identical to the file at this commit (same SHA-256).",
+        "checked_utc": "2026-09-26T14:24:29+00:00"
+      }
+    },
+    {
+      "id": "cc0-1.0-legalcode",
+      "corpus": "licence text",
+      "evidence_for": "Creative Commons CC0 1.0 Universal",
+      "page_url": "https://creativecommons.org/publicdomain/zero/1.0/legalcode.en",
+      "raw_url": null,
+      "pdf": {
+        "file": "pdf/cc0-1.0-legalcode.pdf",
+        "sha256": "e35d1ecd124dca5283637014c714921ce9eb185ae09426dcab45e50ac2a2832b",
+        "bytes": 192237,
+        "printed_utc": "2026-09-26T14:17:40+00:00",
+        "method": "headless Chrome print-to-PDF"
+      },
+      "wayback": {
+        "https://creativecommons.org/publicdomain/zero/1.0/legalcode.en": {
+          "status": 200,
+          "snapshot": "https://web.archive.org/web/20260924204023/https://creativecommons.org/publicdomain/zero/1.0/legalcode.en",
+          "requested": "2026-09-26T14:18:08+00:00"
+        }
+      }
+    },
+    {
+      "id": "public-domain-mark-1.0",
+      "corpus": "licence text",
+      "evidence_for": "Creative Commons Public Domain Mark 1.0",
+      "page_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "raw_url": null,
+      "pdf": {
+        "file": "pdf/public-domain-mark-1.0.pdf",
+        "sha256": "bdde331d0eb466ee2a6c4db5dbb76d6c0cd21657e3196109c60ffa91c51ad0a6",
+        "bytes": 184940,
+        "printed_utc": "2026-09-26T14:18:19+00:00",
+        "method": "headless Chrome print-to-PDF"
+      },
+      "wayback": {
+        "https://creativecommons.org/publicdomain/mark/1.0/": {
+          "status": 520,
+          "snapshot": null,
+          "error": "HTTP Error 520: UNKNOWN",
+          "requested": "2026-09-26T14:23:16+00:00"
+        }
+      }
+    },
+    {
+      "id": "cc-by-3.0-legalcode",
+      "corpus": "licence text",
+      "evidence_for": "Creative Commons Attribution 3.0 Unported",
+      "page_url": "https://creativecommons.org/licenses/by/3.0/legalcode.en",
+      "raw_url": null,
+      "pdf": {
+        "file": "pdf/cc-by-3.0-legalcode.pdf",
+        "sha256": "19213a23e34094d16e55681c3c8e120fb879374dfa4142434d8e7d4d61849ea1",
+        "bytes": 286061,
+        "printed_utc": "2026-09-26T14:18:38+00:00",
+        "method": "headless Chrome print-to-PDF"
+      },
+      "wayback": {
+        "https://creativecommons.org/licenses/by/3.0/legalcode.en": {
+          "status": 200,
+          "snapshot": "https://web.archive.org/web/20260926141843/https://creativecommons.org/licenses/by/3.0/legalcode.en",
+          "requested": "2026-09-26T14:18:59+00:00"
+        }
+      }
+    },
+    {
+      "id": "cc-by-4.0-legalcode",
+      "corpus": "licence text",
+      "evidence_for": "Creative Commons Attribution 4.0 International",
+      "page_url": "https://creativecommons.org/licenses/by/4.0/legalcode.en",
+      "raw_url": null,
+      "pdf": {
+        "file": "pdf/cc-by-4.0-legalcode.pdf",
+        "sha256": "978a99bb139a8e454c0a3a2d117cc9c638902d0f83bba6f1a66352b3537fff49",
+        "bytes": 287012,
+        "printed_utc": "2026-09-26T14:19:09+00:00",
+        "method": "headless Chrome print-to-PDF"
+      },
+      "wayback": {
+        "https://creativecommons.org/licenses/by/4.0/legalcode.en": {
+          "status": 200,
+          "snapshot": "https://web.archive.org/web/20260926141915/https://creativecommons.org/licenses/by/4.0/legalcode.en",
+          "requested": "2026-09-26T14:19:31+00:00"
+        }
+      }
+    },
+    {
+      "id": "apache-2.0",
+      "corpus": "licence text",
+      "evidence_for": "Apache License 2.0",
+      "page_url": null,
+      "raw_url": "https://www.apache.org/licenses/LICENSE-2.0.txt",
+      "raw": {
+        "file": "raw/apache-2.0.txt",
+        "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+        "bytes": 11358,
+        "http_status": 200,
+        "content_type": "text/plain",
+        "retrieved_utc": "2026-09-26T14:19:39+00:00"
+      },
+      "wayback": {
+        "https://www.apache.org/licenses/LICENSE-2.0.txt": {
+          "status": 200,
+          "snapshot": "https://web.archive.org/web/20260926141941/https://www.apache.org/licenses/LICENSE-2.0.txt",
+          "requested": "2026-09-26T14:19:49+00:00"
+        }
+      }
+    }
+  ]
+}
